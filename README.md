@@ -1,6 +1,6 @@
 # 📹 Vlog App  
 
-Vlog App is an Android application designed to display a list of vlogs using Jetpack Compose. It fetches vlog data from a remote API using **Paging 3**, allowing users to browse vlogs efficiently. Users can tap on a vlog item to open its details in a WebView.
+Vlog App is an Android application designed to display a list of vlogs using Jetpack Compose. It fetches vlog data from a remote API using **Retroft** handling pagination using **Paging 3**, allowing users to browse vlogs efficiently. Users can tap on a vlog item to open its details in a WebView.
 
 
 ## 📸 Screenshots  
