@@ -5,9 +5,21 @@ Vlog App is an Android application designed to display a list of vlogs using Jet
 
 ## 📸 Screenshots  
 
-| Vlog Screen | Detail Screen |
-|------------|--------------|
-| ![Vlog Screen](https://github.com/user-attachments/assets/6a514e2a-df02-4db0-a1ec-da8fdcada2c) | ![Detail Screen](https://github.com/user-attachments/assets/1df989b9-ba82-412d-bbd2-48c5c9a5a6be) |
+<div align="center">
+    <table>
+        <tr>
+            <td align="center"><b>Vlog Screen</b></td>
+            <td align="center"><b>Detail Screen</b></td>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/user-attachments/assets/9a1a6615-ae24-40f2-a117-f6af4b819b95" width="250"></td>
+            <td><img src="https://github.com/user-attachments/assets/1df989b9-ba82-412d-bbd2-48c5c9a5a6be" width="250"></td>
+        </tr>
+    </table>
+</div>
+
+
+
 
 
 ## 🚀 Features  
